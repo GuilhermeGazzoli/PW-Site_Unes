@@ -1,0 +1,20 @@
+    #HEAD {
+    color: rgb(0, 0, 0);
+    font-size: larger;
+    }
+
+    #PAO{
+    font-size: 20px;   
+     }
+
+    #kwanza {
+    position: absolute;
+    top: 50px;
+    right: 300px; 
+    }
+
+    .PANGOLA {
+    position: absolute;
+    right: 100px
+
+    }
